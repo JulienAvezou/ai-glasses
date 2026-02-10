@@ -12,6 +12,8 @@ A tiny iOS MVP that helps you discover emotion patterns by:
 
 This runs **fully on-device**: no backend, no external APIs.
 
+![MoodMoments](https://github.com/user-attachments/assets/f5c6d47c-70df-498f-b279-eee27d9ddd34)
+
 ## Features
 
 - ✅ Import latest photo from Photos (best for glasses workflow)
